@@ -14,14 +14,14 @@ Auto Braking 알아서 멈추다
 성능 많이 잡아먹어서 잘안씀
 
 NavMeshAgent는 using UnityEngine.AI; 가 있어야 사용가능하다
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
 ex) NavMeshAgent  _agent = null;
 
 start
 {
     _agent = GetComponent<NavMeshAgent>();
 }
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
 
 SetDestination (목적지 까지이동)
 
