@@ -6,10 +6,15 @@ title:  "Nav Mesh Agent"
 ai 기능 유니티만
 
 Speed 속도
+
 Angular Speed 얼마나 빠르게 돌건지
+
 Acceleration 가속력
+
 Stopping Distance 목적지와의 거리,멈출거리 (어택범위와 같게해야함
+
 Auto Braking 알아서 멈추다
+
 
 성능 많이 잡아먹어서 잘안씀
 
